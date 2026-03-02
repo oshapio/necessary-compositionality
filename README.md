@@ -85,3 +85,15 @@ The default model set includes:
 
 ## Citation
 
+```
+@misc{uselis2026compositionalgeneralizationrequireslinear,
+      title={Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models}, 
+      author={Arnas Uselis and Andrea Dittadi and Seong Joon Oh},
+      year={2026},
+      eprint={2602.24264},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.24264}, 
+}
+```
+
