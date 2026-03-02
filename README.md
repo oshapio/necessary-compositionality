@@ -27,9 +27,6 @@ Dataset paths are configured in [`src/complinearity/_config.py`](src/complineari
 
 ## Pipeline
 
-<p align="center">
-  <img src="assets/temporal.gif" width="800">
-</p>
 
 The main pipeline has three stages: generate embeddings, train linear probes, and run the factorization analysis. All commands assume you are at the repo root.
 
