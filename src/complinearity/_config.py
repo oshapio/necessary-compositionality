@@ -1,0 +1,5 @@
+npz_path_dsprites = "/mnt/lustre/work/oh/owl661/complinearity/src/complinearity/analysis/dsprites_ndarray_co1sh3sc6or40x32y32_64x64(1).npz"
+npz_path_dsprites_clean = "/mnt/lustre/work/oh/owl661/complinearity/src/complinearity/analysis/clean_dsprites_ndarray_co1sh3sc6or40x32y32_64x64(1).npz"
+npz_path_mpi3d = "/mnt/lustre/work/oh/owl661/datasets/real.npz"
+pug_csv_path = "/mnt/lustre/datasets/PUG/PUG_Animal/labels_pug_animal.csv"
+pug_images_folder = "/mnt/lustre/datasets/PUG/PUG_Animal/"

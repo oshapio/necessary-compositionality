@@ -1,0 +1,36 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.conda_envs
+*.npycz
+.npy
+*.pt
+
+.venv_ust
+# Large generated artifacts (prevent pushing big files)
+src/complinearity/streamlit_mob_exps/checkpoints/
+.csv
+outputs*
+
+*.json
+*.jsonl
+*wandb*
+*.pkl
+*.html
+*.npz
+
+*/tempdir
+*tempdir*
+.zip
+
+*.zip
+src/complinearity/analysis/pug_linearity/check_in_ao/downloaded_file.zip
+# local large artifacts
+
