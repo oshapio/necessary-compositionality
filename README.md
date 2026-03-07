@@ -1,4 +1,4 @@
-# Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models
+# Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models [![arXiv](https://img.shields.io/badge/arXiv-2602.24264-b31b1b.svg)](https://arxiv.org/abs/2602.24264)
 
 <p align="center">
   <img src="assets/intro.png" width="800">
